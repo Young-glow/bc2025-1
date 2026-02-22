@@ -1,1 +1,1 @@
-console.log("Hello, Yang-glow!"); 
+console.log("Hello, Young-glow!"); 
